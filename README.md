@@ -2,7 +2,10 @@
 Sentiment Analysis - Movie Review 
 
 This is the model to predict whether the movie reviews are positive or negative using natural language processing. 
-The used data contains about 5000 different reviews. The file is tab separated file. 
+
+For this project we'll use the Cornell University Movie Review polarity dataset v2.0 obtained from http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+This dataset contains about 5000 different reviews and they are tab separated file. 
 
 The procedure for the model is as follows:
 - Load the data.
