@@ -34,3 +34,4 @@ print(classification_report(y_test,predictions))
 
 #Predict your own review
 text_clf.predict(["Great movie! Absolutely amazing. Had an amazing experience."])
+
