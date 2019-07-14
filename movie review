@@ -4,8 +4,8 @@ import pandas as pd
 # Load the data which contains movie reviews, tab separated files.  
 df = pd.read_csv('../TextFiles/moviereviews.tsv', sep='\t')
 
-#Check the first five rows of tbhe file
-df.head(4)
+#Check the first five rows of the file
+df.head()
 len(df)
 
 #Check the null values
