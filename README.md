@@ -1,7 +1,7 @@
 # Text-Classification
 Sentiment Analysis - Movie Review 
 
-This is the model to predict whether the movie reviews are positive or negative using natural language processing. 
+This is the model to predict whether the movie reviews are positive or negative using natural language processing in scikit learn using jyputer notebook.
 
 For this project we'll use the Cornell University Movie Review polarity dataset v2.0 obtained from http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
